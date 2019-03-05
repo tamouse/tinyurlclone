@@ -1,0 +1,10 @@
+{
+  "name": "tinyurlclone",
+  "version": "0.1.0",
+  "description": "A tinyurl.com clone example, with user authentication",
+  "main": "src/index.js",
+  "repository": "git@github.com:tamouse/tinyurlclone.git",
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
